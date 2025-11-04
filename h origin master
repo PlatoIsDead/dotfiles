@@ -1,0 +1,11 @@
+[1mdiff --git a/gitconfig b/gitconfig[m
+[1mindex db3f5bd..24bfed4 100644[m
+[1m--- a/gitconfig[m
+[1m+++ b/gitconfig[m
+[36m@@ -59,3 +59,6 @@[m
+ [m
+ [init][m
+   defaultBranch = master[m
+[32m+[m[32m[user][m
+[32m+[m	[32memail = sharapov.nikita1997@gmail.com[m
+[32m+[m	[32mname = Nikita Sharapov[m
